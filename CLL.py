@@ -65,7 +65,7 @@ def predict(inputs):
 
 
 # Streamlit user interface
-st.title('Predictive Analytics for Acute Myeloid Leukemia')
+st.title('Predictive Analytics for Chronic Lymphocytic Leukemia')
 
 # Creating form for input
 with st.form(key='prediction_form'):
